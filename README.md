@@ -1,4 +1,3 @@
-**# Neural Network Implementation from Scratch
 
 ## Generative AI Lab — Practice Lab Neural Network 1
 
